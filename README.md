@@ -10,7 +10,7 @@ The objective of this project is to analyze 150,000+ coffee shop sales transacti
 **Dataset:** Coffee Shop Sales Dataset
 
 **Dataset Size:** 150,000+ Sales Records
-[View Dataset](./Coffee-Shop-Sales.xlsx)
+[Dataset](./Coffee-Shop-Sales.xlsx)
 
 ### Dataset includes:
 
@@ -37,7 +37,7 @@ This dashboard answers the following business questions:
 * Which **days and hours** generate maximum sales?
 * How do **weekday and weekend sales** compare?
 * Which days perform **above or below average sales**?
-  [Download Dashboard](./Screenshot(Dashboard).png)
+  [View Dashboard](./Screenshot(Dashboard).png)
   
 # ⚙️ **Project Workflow**
 
