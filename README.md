@@ -121,7 +121,12 @@ The dashboard helps stakeholders to:
 * Securely share reports using **Row-Level Security (RLS)**.
 * Automate reporting through **Scheduled Refresh**.
   
-# 📌 **Project Summary**
+## 📌 Project Summary
 
-Developed an **end-to-end Coffee Shop Sales Analytics solution** by analyzing **150K+ sales transactions** using **MySQL** and **Power BI**. The project includes **SQL analysis**, **DAX KPIs**, **interactive dashboards**, **Row-Level Security (RLS)**, **Scheduled Refresh**, and deployment to **Power BI Service**, enabling secure, automated, and data-driven business reporting.
+Developed an end-to-end **Coffee Shop Sales Analytics** solution by analyzing **150K+ sales transactions** using **MySQL** and **Power BI**. The project covers the complete Business Intelligence workflow, including data extraction, cleaning, transformation, SQL-based analysis, data modeling, and advanced DAX KPI development to deliver meaningful business insights.
 
+Designed an interactive and user-friendly Power BI dashboard featuring executive KPIs, sales trends, product performance, store analysis, time-based insights, and dynamic filtering capabilities. The dashboard enables stakeholders to monitor business performance, identify revenue-driving products, evaluate store efficiency, track Month-over-Month (MoM) growth, and support strategic decision-making through real-time visual analytics.
+
+To simulate an enterprise Business Intelligence environment, the solution was deployed to **Power BI Service** with **Row-Level Security (RLS)** for secure role-based access, **On-Premises Data Gateway** for database connectivity, and **Scheduled Refresh** for automated data synchronization. These implementations ensure secure, reliable, and up-to-date reporting without manual intervention.
+
+This project demonstrates practical expertise in **Business Intelligence, Data Analytics, SQL, MySQL, Power BI, DAX, Power Query, Data Modeling, Dashboard Design, Data Visualization, Cloud Deployment, Report Automation, and Enterprise Reporting**, reflecting the complete analytics lifecycle expected in modern Data Analyst and Power BI Developer roles.
