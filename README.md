@@ -37,6 +37,12 @@ This dashboard answers the following business questions:
 * Which **days and hours** generate maximum sales?
 * How do **weekday and weekend sales** compare?
 * Which days perform **above or below average sales**?
+  
+# 💾 Power BI Dashboard
+
+📊 **Download PBIX File:** [Coffee Shop Sales Dashboard.pbix](Dashboard/Coffee%20Shop%20Sales%20Dashboard.pbix)
+
+🌐 **View Live Dashboard:** [Power BI Service Dashboard](https://app.powerbi.com/...)
 
 # ⚙️ **Project Workflow**
 
