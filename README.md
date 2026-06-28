@@ -92,39 +92,7 @@ This dashboard answers the following business questions:
 * Slicers
 * Cross Filtering
 * Drill-Down Reports
-
----
-
-# 📷 **Dashboard Preview**
-
-🖼️ **View Dashboard Screenshots:** [Images Folder](Images/)
-
----
-
-# 🎥 **Dashboard Demo**
-
-▶️ **Watch Dashboard Demo:** [Dashboard Demo.mp4](Videos/Dashboard%20Demo.mp4)
-
----
-
-# 💾 **Power BI Dashboard**
-
-📊 **Download Power BI Dashboard:** [Coffee Shop Sales Dashboard.pbix](Power%20BI/Coffee%20Shop%20Sales%20Dashboard.pbix)
-
----
-
-# 🗄️ **SQL Scripts**
-
-📄 **View SQL Scripts:** [SQL Folder](SQL/)
-
-**Available Scripts:**
-
-* Data Cleaning.sql
-* Business Queries.sql
-* KPI Queries.sql
-
----
-
+  
 # 💡 **Project Insights**
 
 * Peak sales occur during **morning hours**.
