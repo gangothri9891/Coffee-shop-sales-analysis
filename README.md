@@ -34,6 +34,8 @@ This dashboard answers the following business questions:
 * Enabled **Scheduled Refresh**.
 * Published the dashboard to **Power BI Service**.
   <img width="1354" height="813" alt="Screenshot(Dashboard)" src="https://github.com/user-attachments/assets/630e8cd1-c320-40e1-9d2f-6dcc6a7fa139" />
+  <img width="1600" height="820" alt="Powerbi-service" src="https://github.com/user-attachments/assets/2b4bd557-8334-4ee8-935f-257eedf738cf" />
+
 
 # 📊 **Dashboard Features**
 ### **Executive KPIs**
