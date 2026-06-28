@@ -23,3 +23,15 @@ The objective of this project is to analyze 150,000+ coffee shop sales transacti
 - Transaction Quantity
 - Unit Price
 - Sales Amount
+  
+❓ Business Questions (KPIs)
+What is the total revenue generated?
+How many orders were placed?
+What is the total quantity sold?
+What is the Month-over-Month (MoM) sales growth?
+Which store location generates the highest sales?
+Which product categories contribute the most revenue?
+What are the Top 10 best-selling products?
+Which days and hours generate maximum sales?
+How do weekday and weekend sales compare?
+Which days perform above or below average sales?
