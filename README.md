@@ -99,7 +99,7 @@ The dashboard helps stakeholders to:
 * Securely share reports using **Row-Level Security (RLS)**.
 * Automate reporting through **Scheduled Refresh**.
   
-## 📌 Project Summary
+## 📌Final Conclusion:
 Developed an end-to-end **Coffee Shop Sales Analytics** solution by analyzing **150K+ sales transactions** using **MySQL** and **Power BI**. The project covers the complete Business Intelligence workflow, including data extraction, cleaning, transformation, SQL-based analysis, data modeling, and advanced DAX KPI development to deliver meaningful business insights.
 
 Designed an interactive and user-friendly Power BI dashboard featuring executive KPIs, sales trends, product performance, store analysis, time-based insights, and dynamic filtering capabilities. The dashboard enables stakeholders to monitor business performance, identify revenue-driving products, evaluate store efficiency, track Month-over-Month (MoM) growth, and support strategic decision-making through real-time visual analytics.
