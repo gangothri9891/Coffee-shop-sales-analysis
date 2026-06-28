@@ -22,136 +22,148 @@ The objective of this project is to analyze 150,000+ coffee shop sales transacti
 - Product Type
 - Transaction Quantity
 - Unit Price
-- Sales Amount
-  
-📂 Dataset Used
 
-Dataset: Coffee Shop Sales Dataset
-
-Dataset Size: 150,000+ Sales Records
-
-📥 Download Dataset: Coffee Shop Sales.xlsx
-
-Dataset Includes
-Transaction ID
-Transaction Date
-Transaction Time
-Store Location
-Product Category
-Product Type
-Transaction Quantity
-Unit Price
-Sales Amount
-
-❓ Business Questions (KPIs)
+# ❓ **Business Questions (KPIs)**
 
 This dashboard answers the following business questions:
 
-What is the total revenue generated?
-How many orders were placed?
-What is the total quantity sold?
-What is the Month-over-Month (MoM) sales growth?
-Which store location generates the highest sales?
-Which product categories contribute the most revenue?
-What are the Top 10 best-selling products?
-Which days and hours generate maximum sales?
-How do weekday and weekend sales compare?
-Which days perform above or below average sales?
-⚙️ Project Workflow
-Imported raw sales data from MySQL.
-Cleaned and transformed data using SQL and Power Query.
-Built a data model and created DAX KPIs.
-Designed interactive Power BI dashboards.
-Configured Row-Level Security (RLS).
-Connected an On-Premises Data Gateway.
-Enabled Scheduled Refresh.
-Published the dashboard to Power BI Service.
+* What is the **total revenue generated**?
+* How many **orders** were placed?
+* What is the **total quantity sold**?
+* What is the **Month-over-Month (MoM) sales growth**?
+* Which **store location** generates the highest sales?
+* Which **product categories** contribute the most revenue?
+* What are the **Top 10 best-selling products**?
+* Which **days and hours** generate maximum sales?
+* How do **weekday and weekend sales** compare?
+* Which days perform **above or below average sales**?
 
-📊 Dashboard Features
-Executive KPIs
-Total Sales
-Total Orders
-Total Quantity Sold
-Average Order Value
-Month-over-Month Growth
-Sales Analysis
-Daily & Monthly Sales Trends
-Weekday vs Weekend Analysis
-Above/Below Average Sales
-Product Analysis
-Product Category Performance
-Top 10 Selling Products
-Revenue Contribution
-Store Analysis
-Store Performance Comparison
-Sales by Store Location
-Time Analysis
-Hourly Sales Analysis
-Peak Business Hours
-Sales by Day
-Interactive Features
-Dynamic Filters
-Slicers
-Cross Filtering
-Drill-Down Reports
+---
 
-📷 Dashboard Preview
+# ⚙️ **Project Workflow**
 
-🖼️ View Dashboard Screenshots: Images Folder
+* Imported raw sales data from **MySQL**.
+* Cleaned and transformed data using **SQL** and **Power Query**.
+* Built a data model and created **DAX KPIs**.
+* Designed interactive **Power BI dashboards**.
+* Configured **Row-Level Security (RLS)**.
+* Connected an **On-Premises Data Gateway**.
+* Enabled **Scheduled Refresh**.
+* Published the dashboard to **Power BI Service**.
 
-Add screenshots like:
+---
 
-Dashboard Overview.png
-Sales Analysis.png
-Product Dashboard.png
-Store Performance.png
-🎥 Dashboard Demo
+# 📊 **Dashboard Features**
 
-▶️ Watch Dashboard Demo: Dashboard Demo.mp4
+### **Executive KPIs**
 
-💾 Power BI Dashboard
+* **Total Sales**
+* **Total Orders**
+* **Total Quantity Sold**
+* **Average Order Value**
+* **Month-over-Month Growth**
 
-📊 Download Power BI File: Coffee Shop Sales Dashboard.pbix
+### **Sales Analysis**
 
-🗄️ SQL Scripts
+* Daily & Monthly Sales Trends
+* Weekday vs Weekend Analysis
+* Above/Below Average Sales
 
-📄 View SQL Queries: SQL Folder
+### **Product Analysis**
 
-or
+* Product Category Performance
+* Top 10 Selling Products
+* Revenue Contribution
 
-Data Cleaning.sql
-Business Queries.sql
-KPI Queries.sql
+### **Store Analysis**
 
-💡 Project Insights
-Peak sales occur during morning hours.
-Coffee sales demonstrate consistent month-over-month growth.
-Top-performing products contribute significantly to total revenue.
-Store performance varies across different locations.
-Weekday and weekend sales reveal distinct purchasing patterns.
-🚀 Tech Stack
-MySQL
-SQL
-Power BI Desktop
-Power BI Service
-DAX
-Power Query
-Data Modeling
-Row-Level Security (RLS)
-On-Premises Data Gateway
-Scheduled Refresh
+* Store Performance Comparison
+* Sales by Store Location
 
-📈 Business Impact
+### **Time Analysis**
 
-The dashboard helps stakeholders:
+* Hourly Sales Analysis
+* Peak Business Hours
+* Sales by Day
 
-Monitor business performance in real time.
-Identify high-performing stores and products.
-Track revenue and sales growth.
-Improve inventory and staffing decisions.
-Share reports securely using Row-Level Security.
-Automate reporting with Scheduled Refresh.
+### **Interactive Features**
 
-📌 Project Summary
+* Dynamic Filters
+* Slicers
+* Cross Filtering
+* Drill-Down Reports
 
-Developed an end-to-end Coffee Shop Sales Analytics solution by analyzing 150K+ sales transactions using MySQL and Power BI. The project includes SQL analysis, DAX KPIs, interactive dashboards, Row-Level Security (RLS), Scheduled Refresh, and deployment to Power BI Service, enabling secure, automated, and data-driven business reporting.
+---
+
+# 📷 **Dashboard Preview**
+
+🖼️ **View Dashboard Screenshots:** [Images Folder](Images/)
+
+---
+
+# 🎥 **Dashboard Demo**
+
+▶️ **Watch Dashboard Demo:** [Dashboard Demo.mp4](Videos/Dashboard%20Demo.mp4)
+
+---
+
+# 💾 **Power BI Dashboard**
+
+📊 **Download Power BI Dashboard:** [Coffee Shop Sales Dashboard.pbix](Power%20BI/Coffee%20Shop%20Sales%20Dashboard.pbix)
+
+---
+
+# 🗄️ **SQL Scripts**
+
+📄 **View SQL Scripts:** [SQL Folder](SQL/)
+
+**Available Scripts:**
+
+* Data Cleaning.sql
+* Business Queries.sql
+* KPI Queries.sql
+
+---
+
+# 💡 **Project Insights**
+
+* Peak sales occur during **morning hours**.
+* Coffee sales demonstrate **consistent Month-over-Month growth**.
+* Top-performing products contribute significantly to **overall revenue**.
+* Store performance varies across different **locations**.
+* Weekday and weekend sales reveal distinct **customer purchasing patterns**.
+
+---
+
+# 🚀 **Tech Stack**
+
+* **MySQL**
+* **SQL**
+* **Power BI Desktop**
+* **Power BI Service**
+* **DAX**
+* **Power Query**
+* **Data Modeling**
+* **Row-Level Security (RLS)**
+* **On-Premises Data Gateway**
+* **Scheduled Refresh**
+
+---
+
+# 📈 **Business Impact**
+
+The dashboard helps stakeholders to:
+
+* Monitor business performance in **real time**.
+* Identify **high-performing stores** and **products**.
+* Track **revenue** and **sales growth**.
+* Improve **inventory** and **staffing decisions**.
+* Securely share reports using **Row-Level Security (RLS)**.
+* Automate reporting through **Scheduled Refresh**.
+
+---
+
+# 📌 **Project Summary**
+
+Developed an **end-to-end Coffee Shop Sales Analytics solution** by analyzing **150K+ sales transactions** using **MySQL** and **Power BI**. The project includes **SQL analysis**, **DAX KPIs**, **interactive dashboards**, **Row-Level Security (RLS)**, **Scheduled Refresh**, and deployment to **Power BI Service**, enabling secure, automated, and data-driven business reporting.
+
