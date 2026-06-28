@@ -10,8 +10,7 @@ The objective of this project is to analyze 150,000+ coffee shop sales transacti
 **Dataset:** Coffee Shop Sales Dataset
 
 **Dataset Size:** 150,000+ Sales Records
-
-📥 **Download Dataset:** [Coffee Shop Sales.xlsx](Dataset/Coffee%20Shop%20Sales.xlsx)
+[Download Dataset](./Coffee-Shop-Sales.xlsx)
 
 ### Dataset includes:
 
