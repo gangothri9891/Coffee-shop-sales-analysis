@@ -38,8 +38,6 @@ This dashboard answers the following business questions:
 * How do **weekday and weekend sales** compare?
 * Which days perform **above or below average sales**?
 
----
-
 # ⚙️ **Project Workflow**
 
 * Imported raw sales data from **MySQL**.
@@ -50,9 +48,7 @@ This dashboard answers the following business questions:
 * Connected an **On-Premises Data Gateway**.
 * Enabled **Scheduled Refresh**.
 * Published the dashboard to **Power BI Service**.
-
----
-
+  
 # 📊 **Dashboard Features**
 
 ### **Executive KPIs**
@@ -100,9 +96,7 @@ This dashboard answers the following business questions:
 * Top-performing products contribute significantly to **overall revenue**.
 * Store performance varies across different **locations**.
 * Weekday and weekend sales reveal distinct **customer purchasing patterns**.
-
----
-
+  
 # 🚀 **Tech Stack**
 
 * **MySQL**
@@ -116,8 +110,6 @@ This dashboard answers the following business questions:
 * **On-Premises Data Gateway**
 * **Scheduled Refresh**
 
----
-
 # 📈 **Business Impact**
 
 The dashboard helps stakeholders to:
@@ -128,9 +120,7 @@ The dashboard helps stakeholders to:
 * Improve **inventory** and **staffing decisions**.
 * Securely share reports using **Row-Level Security (RLS)**.
 * Automate reporting through **Scheduled Refresh**.
-
----
-
+  
 # 📌 **Project Summary**
 
 Developed an **end-to-end Coffee Shop Sales Analytics solution** by analyzing **150K+ sales transactions** using **MySQL** and **Power BI**. The project includes **SQL analysis**, **DAX KPIs**, **interactive dashboards**, **Row-Level Security (RLS)**, **Scheduled Refresh**, and deployment to **Power BI Service**, enabling secure, automated, and data-driven business reporting.
