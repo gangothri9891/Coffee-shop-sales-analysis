@@ -49,6 +49,8 @@ This dashboard answers the following business questions:
 * Connected an **On-Premises Data Gateway**.
 * Enabled **Scheduled Refresh**.
 * Published the dashboard to **Power BI Service**.
+  <img width="1354" height="813" alt="Screenshot(Dashboard)" src="https://github.com/user-attachments/assets/630e8cd1-c320-40e1-9d2f-6dcc6a7fa139" />
+
   
 # 📊 **Dashboard Features**
 
